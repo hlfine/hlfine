@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<code><img height="20" alt="javascript" src="https://raw.github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="vue" src="https://raw.github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
 <!--
 **hlfine/hlfine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +21,16 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats:
 ---
+<!--
 [![hlfine github stats](https://github-readme-stats.vercel.app/api?username=hlfine&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlfine&theme=buefy&hide_border=true&hide=Vue,javascript" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hlfine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 ![hlfine Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hlfine&theme=solarized_dark)
 ![hlfine Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hlfine&theme=solarized_dark)
 ![hlfine Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hlfine&theme=solarized_dark)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs%2040%20mins-blue)
