@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://bgithub.xyz/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hlfine&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
+
+
 ### 📊 GitHub Stats:
 ---
 <!--
